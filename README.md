@@ -15,4 +15,4 @@ the admin of the website will be updating the shipment from the Back end.
 
 
 AUTHORS
-Chijioke Henry Aruekwe https://www.linkedin.com/in/chijioke-aruekwe-a025941a7/ 
+Chijioke Henry Aruekwe
